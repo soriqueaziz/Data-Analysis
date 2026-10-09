@@ -19,3 +19,10 @@ Click the link below to open the notebook directly in Google Colab:
 Click the link below to open the notebook directly in Google Colab:
 
 [Open the 1D Random Walk notebook in Google Colab](https://colab.research.google.com/github/soriqueaziz/Data-Analysis/blob/main/Random_Walk_Analysis/code/1D_Random_Walk.ipynb)
+
+
+## Cellular Tissue Mechanics: Mean-Squared Displacement
+
+Click the link below to open the notebook directly in Google Colab:
+
+[Open the Cellular Tissue Mechanics MSD notebook in Google Colab](https://colab.research.google.com/github/soriqueaziz/Data-Analysis/blob/main/Cellular_Tissue_Mechanics/code/Cellular_Tissue_Mechanics_MSD.ipynb)
